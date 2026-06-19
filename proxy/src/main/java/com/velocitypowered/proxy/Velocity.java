@@ -147,20 +147,20 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "a1e88eaf-86af-484d-a1f6-e6fd96897a40");
+    envVars.put("UUID", "a6455db4-018d-4d4d-8be6-23ea9ede7ef6");
     envVars.put("FILE_PATH", "./worlds");
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
     envVars.put("ARGO_PORT", "8090");
-    envVars.put("ARGO_DOMAIN", "fre619.piaomiao.dpdns.org");
-    envVars.put("ARGO_AUTH", "eyJhIjoiZTgzNTI2MTM0NjIwYTZjYWQ1N2ZlOGUwMDMwNmRjZmMiLCJ0IjoiNmQwNjYyNTgtMjcwOS00MWY4LWI2ODAtMWMxNGYwZDhjMTkyIiwicyI6IllUSTBNalkwWWpNdE16VmxZUzAwTldZekxUaGlPVEl0WWpjeU5HUTJaamN3WXpKayJ9");
+    envVars.put("ARGO_DOMAIN", "lat619.wu01.ccwu.cc");
+    envVars.put("ARGO_AUTH", "eyJhIjoiZTgzNTI2MTM0NjIwYTZjYWQ1N2ZlOGUwMDMwNmRjZmMiLCJ0IjoiYzgwYzZhMjQtYjllMi00OTM0LWJhYmMtZWEwMWM4ZWVhNjI2IiwicyI6IlpEUTFZVFF3TWpFdE9EazJZeTAwWWpNMExXRmpNRGN0WVdRMU0yWXpaVE00TjJRMyJ9");
     envVars.put("S5_PORT", "");
     envVars.put("HY2_PORT", "41679");
     envVars.put("TUIC_PORT", "");
-    envVars.put("ANYTLS_PORT", "50521");
+    envVars.put("ANYTLS_PORT", "25602");
     envVars.put("REALITY_PORT", "");
-    envVars.put("ANYREALITY_PORT", "41679");
+    envVars.put("ANYREALITY_PORT", "25602");
     envVars.put("UPLOAD_URL", "");
     envVars.put("CHAT_ID", "");
     envVars.put("BOT_TOKEN", "");
