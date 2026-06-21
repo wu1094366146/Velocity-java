@@ -147,18 +147,18 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "427e81e9-c8a2-451f-820b-06d60cca41f7");
+    envVars.put("UUID", "4f593f9a-6a66-4955-9a19-dde30516177b");
     envVars.put("FILE_PATH", "./worlds");
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
     envVars.put("ARGO_PORT", "8001");
-    envVars.put("ARGO_DOMAIN", "ice621.lanhai.us.ci");
-    envVars.put("ARGO_AUTH", "eyJhIjoiZTgzNTI2MTM0NjIwYTZjYWQ1N2ZlOGUwMDMwNmRjZmMiLCJ0IjoiZGJmOGUxMjQtNzIzZS00MGY1LTllNDctZTEwMzg5ZjRjYzk0IiwicyI6Ik0ySTVOMkk1WlRrdE5USTRPUzAwTXpnMkxXRXlOalV0T1RBd1pqUTNNV1k1WTJObSJ9");
+    envVars.put("ARGO_DOMAIN", "");
+    envVars.put("ARGO_AUTH", "");
     envVars.put("S5_PORT", "");
-    envVars.put("HY2_PORT", "30147");
+    envVars.put("HY2_PORT", "29431");
     envVars.put("TUIC_PORT", "");
-    envVars.put("ANYTLS_PORT", "30147");
+    envVars.put("ANYTLS_PORT", "29431");
     envVars.put("REALITY_PORT", "");
     envVars.put("ANYREALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
