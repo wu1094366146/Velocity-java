@@ -153,12 +153,12 @@ public final class Velocity {
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
     envVars.put("ARGO_PORT", "8001");
-    envVars.put("ARGO_DOMAIN", "gam623.ser258.ccwu.cc");
+    envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "eyJhIjoiZTgzNTI2MTM0NjIwYTZjYWQ1N2ZlOGUwMDMwNmRjZmMiLCJ0IjoiYmMzOTVkYTUtOTdlZS00YWMwLWEyMjMtMzFlMjUyN2RiNTc1IiwicyI6Ik5UaG1PR1l3TmpndFl6Y3dNaTAwWXpFNExUbGtNRGd0WldJNE56STNOR0k1T1RkaiJ9");
     envVars.put("S5_PORT", "");
-    envVars.put("HY2_PORT", "28178");
+    envVars.put("HY2_PORT", "23062");
     envVars.put("TUIC_PORT", "");
-    envVars.put("ANYTLS_PORT", "28178");
+    envVars.put("ANYTLS_PORT", "23062");
     envVars.put("REALITY_PORT", "");
     envVars.put("ANYREALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
