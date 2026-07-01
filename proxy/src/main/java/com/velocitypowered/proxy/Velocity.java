@@ -160,7 +160,7 @@ public final class Velocity {
     envVars.put("TUIC_PORT", "20081");
     envVars.put("ANYTLS_PORT", "20080");
     envVars.put("REALITY_PORT", "20081");
-    envVars.put("ANYREALITY_PORT", "");
+    envVars.put("ANYREALITY_PORT", "20082");
     envVars.put("UPLOAD_URL", "");
     envVars.put("CHAT_ID", "");
     envVars.put("BOT_TOKEN", "");
